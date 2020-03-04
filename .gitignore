@@ -1,0 +1,11 @@
+__pycache__
+nets/__pycache__
+utils/__pycache__
+.vscode/settings.json
+.ipynb_checkpoints/train-checkpoint.ipynb
+weights/*
+logs/*
+data/*
+.DS_Store
+.ipynb_checkpoints/tmp-checkpoint.ipynb
+data_list/fs_val.csv
