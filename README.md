@@ -23,3 +23,8 @@
 2. data_list/bad.csv 是初赛训练数据里要剔除的数据
 3. data_list/train.csv 是初赛训练数据里作为训练集使用的
 4. data_list/val.csv 是初赛训练数据里作为验证集使用的
+
+## 预测效果
+[![3TwsrF.md.png](https://s2.ax1x.com/2020/03/05/3TwsrF.md.png)](https://imgchr.com/i/3TwsrF)
+[![3Tw25R.md.png](https://s2.ax1x.com/2020/03/05/3Tw25R.md.png)](https://imgchr.com/i/3Tw25R)
+[![3TwIKO.md.png](https://s2.ax1x.com/2020/03/05/3TwIKO.md.png)](https://imgchr.com/i/3TwIKO)
